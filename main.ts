@@ -1,5 +1,5 @@
 export function main(): string {
-	return "Hello World!";
+	return "Hello Deno!";
 }
 
 // Learn more at https://deno.land/manual/examples/module_metadata#concepts
