@@ -1,0 +1,8 @@
+name: "DING!"
+on:
+  issues: "opened"
+jobs:
+  act:
+    runs-on: ubuntu-latest
+    steps:
+      - run: "echo 'You've got mail!'"
