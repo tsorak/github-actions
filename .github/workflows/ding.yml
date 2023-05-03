@@ -5,4 +5,4 @@ jobs:
   act:
     runs-on: ubuntu-latest
     steps:
-      - run: "echo 'You've got mail!'"
+      - run: "echo 1"
